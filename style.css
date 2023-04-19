@@ -1,0 +1,145 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+   
+    color: rgb(13, 13, 13);
+}
+
+.img-container {
+    position: relative;
+    width: 100%;
+    height: 610px;
+    overflow: hidden;
+}
+
+.img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: auto;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+}
+
+.text1>h1 {
+    font-size: 40px;
+    font-weight: 400;
+    margin-top: 115px;
+    font-weight: 400;
+}
+
+.text1>p {
+    display: block;
+    line-height: 28px;
+    font-size: 15px;
+    margin-top: 40px;
+}
+
+.text2 {
+    margin-top: 25px;
+}
+
+.text2section {
+    display: inline-block;
+}
+
+.video-section>p {
+    margin-left: 10px;
+    line-height: 28px;
+    font-size: 16px;
+    font-weight: 400;
+    display: inline-block;
+    width: 480px;
+    vertical-align: top;
+}
+
+hr {
+    height: 1px;
+    background-color: rgb(237, 237, 237);
+}
+
+.text3>p {
+    line-height: 28px;
+    font-size: 16px;
+    color: rgb(1, 1, 1);
+    font-weight: 400;
+}
+
+h3 {
+    font-size: 40px;
+    font-weight: 400;
+    color: rgb(1, 1, 1);
+    margin-top: 20px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+.txt {
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.img2 {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.txt>p {
+    line-height: 28px;
+    font-size: 16px;
+    color: rgb(1, 1, 1);
+    font-weight: 400;
+}
+
+.img2>img {
+    margin-top: 30px;
+    width: 480px;
+}
+
+.text4>p {
+    font-size: 16px;
+    font-weight: 400;
+    vertical-align: top;
+    line-height: 28px;
+}
+
+.txt>p {
+    line-height: 28px;
+    font-size: 16px;
+    font-weight: 400;
+    width: 500px;
+}
+
+.img2>img {
+    margin-top: 30px;
+    width: 480px;
+}
+
+.text6>p {
+   
+    font-size: 16px;
+    font-weight: 400;
+    vertical-align: top;
+    line-height: 28px;
+  
+   
+}
+.text6 {
+    display: inline-block;
+    width: 480px;
+    vertical-align: top;
+}
+
+.imgg {
+    display: inline-block;
+    width: 480px;
+    height: 350px;
+  
+}
